@@ -1,0 +1,17 @@
+{
+  "name": "clean-folder",
+  "version": "1.0.0",
+  "description": "Cleaning main folder script to separate files into folders with similar extensions.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./cleanDownloads.js"
+  },
+  "keywords": [],
+  "author": "Georgi Dimitrov",
+  "license": "MIT",
+  "devDependencies": {
+    "dotenv": "^16.3.1",
+    "prettier": "^3.1.1"
+  }
+}
